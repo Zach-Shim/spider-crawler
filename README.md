@@ -29,9 +29,9 @@ It will keep visiting the links until the horizon (queue) is empty.
 ## Notes
 Note 1: This is part of an open source search engine. The purpose of this tool is to gather links only. The analytics, data harvesting, and search algorithms are being created as separate programs.
 
-Note 2: This code was heavily influenced by thenewboston's online tutotial series which can be found on:  
+Note 2: This code was heavily influenced by thenewboston's online tutorial series on creating a web crawler which can be found on:  
 https://www.youtube.com/watch?v=nRW90GASSXE&list=PL6gx4Cwl9DGA8Vys-f48mAH9OKSUyav0qand 
-as well as his open source code for website crawlers.
+as well as his open source code found on his github.
 Please support him by visiting his github and website: https://thenewboston.com/
 
 Note 3: I created this web crawler as a side project with the intention of creating a sitemap and/or search engine for the business https://salon074.com 
