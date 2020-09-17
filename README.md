@@ -4,7 +4,7 @@
 <!-- toc -->
 
 - [What is a Web Crawler?](#heading-1)
-- [How does this Web Crawler Work?](#heading-2)
+- [How does this web crawler work?](#heading-2)
 - [How you can contribute](#heading-3)
 - [Notes](#heading-4)
 
