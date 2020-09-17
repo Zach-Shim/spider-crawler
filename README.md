@@ -1,12 +1,13 @@
 - [Spider-Crawler](#heading)
-  * [What is a Web Crawler?](#sub-heading)
-  * [How does this Web Crawler Work?](#sub-heading-1)
-  * [How you can contribute](#sub-heading-2)
-  * [Notes](#sub-heading-3)
+- [What is a Web Crawler?](#heading-1)
+- [How does this Web Crawler Work?](#heading-2)
+- [How you can contribute](#heading-3)
+- [Notes](#heading-4)
 
-# Heading levels
+# Spider-Crawler
 
-> This is a fixture to test heading levels
+> This is a simple, multi-threaded website crawler written in Python that is part of an open source search engine.
+Currently, the main functionaly of the crawler is to only gather links. Any analytic processing, data harvesting, and search algorithms must be created as separate programs.
 <!-- toc -->
 
 ## Heading
@@ -26,8 +27,7 @@ This is an h2 heading
 This is an h2 heading
 
 
-This is a simple, multi-threaded website crawler written in Python that is part of an open source search engine.
-Currently, the main functionaly of the crawler is to only gather links. Any analytic processing, data harvesting, and search algorithms must be created as separate programs.
+
 
 What is a Web Crawler?
 A crawler, or spider, is an internet bot indexing and visiting every URLs it encounters. Its goal 
