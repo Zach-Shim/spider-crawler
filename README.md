@@ -1,6 +1,7 @@
 # Overview
 
 > This is a simple, multi-threaded website crawler written in Python that is part of an open source search engine.
+Currently, the main functionality of the crawler is to only gather links.
 <!-- toc -->
 
 - [What is a Web Crawler?](#heading-1)
@@ -24,7 +25,7 @@ It will keep visiting the links until the horizon (queue) is empty.
 
 ## How can you get started?
 1. I still need to implement a user interface since I am hard coding a website for the crawler to run in main.py
-2. Currently, the main functionaly of the crawler is to only gather links. Any analytic processing, data harvesting, and search algorithms must be created as separate programs. I am planning on implementing either a custom search engine for the salon website or a search algorithm for web scraping
+2. Currently, the main functionality of the crawler is to only gather links. Any analytic processing, data harvesting, and search algorithms must be created as separate programs. I am planning on implementing either a custom search engine for the salon website or a search algorithm for web scraping
 
 ## Notes
 Note 1: This is part of an open source search engine. The purpose of this tool is to gather links only. The analytics, data harvesting, and search algorithms are being created as separate programs.
