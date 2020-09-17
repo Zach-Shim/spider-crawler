@@ -4,7 +4,9 @@ This is an open source, multi-threaded website crawler written in Python.
 
 Note 1: This is part of an open source search engine. The purpose of this tool is to gather links only. The analytics, data harvesting, and search algorithms are being created as separate programs.
 
-I created this web crawler with the intention of creating a sitemap for the business https://salon074.com 
+Note 2: This is a direct and close interpretation of thenewboston's online tutotial and open source code for a website crawler. Please support him by visiting his github and website: https://thenewboston.com/
+
+Note 3: I created this web crawler with the intention of creating a sitemap and/or search engine for the business https://salon074.com 
 
 What is a Web Crawler?
 A crawler, or spider, is an internet bot indexing and visiting every URLs it encounters. Its goal 
