@@ -1,13 +1,8 @@
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
-
+- [Spider-Crawler](#heading)
+  * [What is a Web Crawler?](#sub-heading)
+  * [How does this Web Crawler Work?](#sub-heading-1)
+  * [How you can contribute](#sub-heading-2)
+  * [Notes](#sub-heading-3)
 
 # Heading levels
 
@@ -22,33 +17,14 @@ This is an h1 heading
 
 This is an h2 heading
 
-#### Sub-sub-heading
+### Sub-heading
 
-This is an h3 heading
-
-## Heading
-
-This is an h1 heading
+This is an h2 heading
 
 ### Sub-heading
 
 This is an h2 heading
 
-#### Sub-sub-heading
-
-This is an h3 heading
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
 
 This is a simple, multi-threaded website crawler written in Python that is part of an open source search engine.
 Currently, the main functionaly of the crawler is to only gather links. Any analytic processing, data harvesting, and search algorithms must be created as separate programs.
@@ -69,11 +45,6 @@ It will keep visiting the links until the horizon (queue) is empty.
 
 How can you get started?
 I still need to implement a user interface since I am hard coding a website for the crawler to run in main.py
-
-
-Because the list of seeds can be very long, the crawler has to organise those following several 
-criterias, and prioritise which ones to visit first and revisit. To know which pages are more important 
-to crawl, the bot will consider how many links go to this URL, how often it is visited by regular users.
 
 Note 1: This is part of an open source search engine. The purpose of this tool is to gather links only. The analytics, data harvesting, and search algorithms are being created as separate programs.
 
