@@ -23,7 +23,19 @@ will be added onto a list (queue) of URLs to be visited. This list is called the
 crawler organises the links in two threads: ones to visit (in the queue), and already visited ones (crawled). 
 It will keep visiting the links until the horizon (queue) is empty. 
 
-![alt text](
+![alt text](https://github.com/Zach-Shim/spider-crawler/blob/master/multi-thread-spiders.png)
+
+## Multithreading
+Multithreading is a way of achieving a program that can multitask.
+
+In computing, a process is an instance of a computer program that is being executed. Any process has 3 basic components:
+1. An executable program.
+2. The associated data needed by the program (variables, work space, buffers, etc.)
+3. The execution context of the program (State of process)
+A thread is an entity within a process that can be scheduled for execution. Also, it is the smallest unit of processing that can be performed in an OS (Operating System).
+
+Python provides built-in support for Multithreaded programming.
+Multithreading is defined as the ability of a processor to execute multiple threads concurrently.
 
 ## How can you get started?
 1. I still need to implement a user interface since I am hard coding a website for the crawler to run in main.py
