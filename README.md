@@ -23,6 +23,8 @@ will be added onto a list (queue) of URLs to be visited. This list is called the
 crawler organises the links in two threads: ones to visit (in the queue), and already visited ones (crawled). 
 It will keep visiting the links until the horizon (queue) is empty. 
 
+![alt text](
+
 ## How can you get started?
 1. I still need to implement a user interface since I am hard coding a website for the crawler to run in main.py
 2. Currently, the main functionality of the crawler is to only gather links. Any analytic processing, data harvesting, and search algorithms must be created as separate programs. I am planning on implementing either a custom search engine for the salon website or a search algorithm for web scraping
